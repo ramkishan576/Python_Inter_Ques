@@ -920,9 +920,6 @@ This solution generates all possible substrings and stores them in a set, ensuri
 48. [Data Cleaning using Python with Pandas Library](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)
     
 
-# 🙌 Credits
-This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
-
 Feel free to explore, contribute, and share your feedback. Happy coding! 😊👩‍💻👨‍💻
 
 > 💡 Tip for interview prep: Always understand the logic behind these problems and practice writing clean, efficient code. Challenge yourself with more problems to boost your skills! 🔥
