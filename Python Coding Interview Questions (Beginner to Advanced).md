@@ -11,8 +11,7 @@
 
 # 📢 Stay Connected:
 
-🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
-📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
+🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/ramkishanrohila/) for daily Python interview questions & insights!   
 💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
 
 
